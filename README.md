@@ -1,5 +1,7 @@
 # Carenuity SGP30 Piggyback Adapter (V1.1)
 
+![image alt](https://github.com/0mollo/Carenuity-SGP30-Piggyback/blob/main/GY-SGP30%20Adapter.pdf) | ![image alt]()
+
 Carenuity ecosystem plug-and-play adapter for the SGP30 Air Quality Sensor module.
 
 This PCB allows easy integration of the SGP30 VOC + eCO2 sensor into development platforms such as ESP8266 (D1 Mini), C3 Mini, and similar 3.3V microcontroller systems.
