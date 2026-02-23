@@ -69,6 +69,9 @@ This adapter provides:
 | SCL | D1 |
 | SDA | D2 |
 
+## File Schematics
+
+[See](https://github.com/0mollo/Carenuity-SGP30-Piggyback/blob/main/GY-SGP30%20Adapter.pdf)
 
 ##  Arduino Example Code
 
