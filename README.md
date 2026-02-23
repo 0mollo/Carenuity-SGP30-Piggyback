@@ -1,6 +1,6 @@
 # Carenuity SGP30 Piggyback Adapter (V1.1)
 
-![image alt](https://github.com/0mollo/Carenuity-SGP30-Piggyback/blob/main/GY-SGP30%20Adapter.pdf) | ![image alt]()
+![image alt](https://github.com/0mollo/Carenuity-SGP30-Piggyback/blob/main/GY-SGP30%20Adapter.pdf) | ![image alt](https://github.com/0mollo/Carenuity-SGP30-Piggyback/blob/main/GY-SGP30%20Adapter%20bottom%20view.png)
 
 Carenuity ecosystem plug-and-play adapter for the SGP30 Air Quality Sensor module.
 
