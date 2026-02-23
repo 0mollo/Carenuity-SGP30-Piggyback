@@ -52,7 +52,7 @@ This adapter provides:
 
 | Parameter | Value |
 |------------|--------|
-| Form Factor | D1 Mini Shield Compatible |
+| Form Factor | C3 Mini Shield Compatible |
 | Mount Type | Through-hole headers |
 | Module Interface | 4-pin vertical header |
 | Branding | Carenuity Ecosystem |
